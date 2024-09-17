@@ -1,0 +1,15 @@
+name: castor
+description: CastOr extension provide a way to safely transform, cast and provide defaults values to get ride on non nullsafe blocs of code.
+version: 0.0.1
+repository: https://github.com/evaisse/dart_castor.git
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  # none
+  meta: ^1.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
